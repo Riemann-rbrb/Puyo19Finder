@@ -1,0 +1,7 @@
+C:\Users\희웅\source\repos\Puyo19Finder\Puyo19Finder\bin\Debug\Puyo19Finder.exe.config
+C:\Users\희웅\source\repos\Puyo19Finder\Puyo19Finder\bin\Debug\Puyo19Finder.exe
+C:\Users\희웅\source\repos\Puyo19Finder\Puyo19Finder\bin\Debug\Puyo19Finder.pdb
+C:\Users\희웅\source\repos\Puyo19Finder\Puyo19Finder\obj\Debug\Puyo19Finder.csprojAssemblyReference.cache
+C:\Users\희웅\source\repos\Puyo19Finder\Puyo19Finder\obj\Debug\Puyo19Finder.csproj.CoreCompileInputs.cache
+C:\Users\희웅\source\repos\Puyo19Finder\Puyo19Finder\obj\Debug\Puyo19Finder.exe
+C:\Users\희웅\source\repos\Puyo19Finder\Puyo19Finder\obj\Debug\Puyo19Finder.pdb
